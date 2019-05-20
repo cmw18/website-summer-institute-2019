@@ -28,9 +28,12 @@ San Diego Supercomputer Center's Auditorium E-B212 located on the ground floor o
 
 The San Diego International Airport (SAN) is the closest airport to UC San Diego and SDSC.
 
-For driving directions see [the visitors page on the SDSC website](http://www.sdsc.edu/about_sdsc/visitor_info.html)
+<b>Visitor Parking- Parking permit is REQUIRED</b>
+* If you are a UC Faculty & Staff who hold an annual permit at your home campuses, you are eligible for up to 5 consecutive days of complimentary parking at UC San Diego. Details on how to obtain this: http://transportation.ucsd.edu/parking/visitor/reciprocity.html
+* For non-UC visitors, see parking permit options here:http://transportation.ucsd.edu/parking/visitor/conference.html. Campus conference attendees printable permits are available through June 3 through Sept. 20, 2019 at a reduced rate. 
+* Recommended parking locations: https://goo.gl/maps/ezfB4N2y9AgtR46r8
 
-[*Download a **Local Area Map** with housing, SDSC, parking, coffee, restaurants*](/img/SI_Map.pdf)
+For driving directions see [the visitors page on the SDSC website](http://www.sdsc.edu/about_sdsc/visitor_info.html)
 
 #### Transportation Options
 
@@ -40,6 +43,9 @@ For cab or shuttle Pick-up/Drop-off:
 
 SDSC is located just south of the RIMAC Arena.
 
+<b>Ride Share: Lyft or Uber</b>
+ <br>---Enter "San Diego Supercomputer Center" as your destination</br>
+ 
 A taxi or transportation service can be used from the airport.
 Helpful link for taxi service in San Diego:
 
@@ -51,6 +57,7 @@ Helpful link for taxi service in San Diego:
 * [Terramoto Transportation Downtown San Diego](http://www.terramoto.net/) - 619.269.7397
 * [Torrey Pines Limo](http://www.torreypineslimo.com/) - 858.997.6866
 * [Super Shuttle](http://www.supershuttle.com/Locations/SANAirportShuttleSanDiego.aspx) - 800.974.8885
-
+ 
 [Public Transportation surrounding UC San Diego](https://transportation.ucsd.edu/alternatives/transit/)
+
 
